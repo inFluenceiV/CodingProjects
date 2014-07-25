@@ -8,9 +8,9 @@ var projects = function(work, progress){
           
           // config = require("./config.js");
           
-          },
+          }
         }
-    }
+    },
   return projects;
   work = this.iV;
   progress++
